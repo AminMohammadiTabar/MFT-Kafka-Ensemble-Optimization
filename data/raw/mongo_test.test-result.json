@@ -1,0 +1,8736 @@
+[{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 53636.522,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 91123.563,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 91991.665,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 99293.06,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 78506.098,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 81941.13,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 84657.535,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 104674.797,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 65563.336,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 83807.974,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 85429.915,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 87238.849,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 62060.655,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 74189.676,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 83064.517,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 86409.396,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 57995.496,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 75716.737,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 81187.599,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 74011.977,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 62919.976,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 77931.905,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 83423.327,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 82115.334,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 60766.962,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 81573.39,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 90271.692,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 83694.475,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 62958.436,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 75274.057,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 77211.395,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 86240.581,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 61358.221,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 73414.113,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 79028.133,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 62792.116,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 58290.889,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 72620.447,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 83785.25,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 87115.873,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 58104.551,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 80280.593,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 81059.812,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 87337.479,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 61961.099,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 80176.441,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 72842.999,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 87908.962,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 60280.921,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 75036.426,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 92183.771,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 118937.645,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 81875.994,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 106625.259,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 100032.373,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 101879.328,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 82620.321,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 88412.018,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 86554.622,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 92487.28,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 60528.894,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 77872.984,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 84173.25,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 81702.803,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 59721.686,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 73641.564,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 76466.222,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 81616.482,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 62098.071,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 74945.429,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 76127.125,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 85785.675,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 60175.268,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 77482.448,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 82886.267,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 76865.672,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 57941.122,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 71148.976,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 81144.958,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 79948.254,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 60327.997,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 76014.761,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 80280.593,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 82997.583,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 62487.361,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 75921.376,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 78010.604,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 92570.402,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 56749.312,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 73084.201,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 86968.759,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 83086.852,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 62971.266,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 73431.559,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 81187.599,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 84311.051,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 61615.155,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 74619.658,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 86168.433,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 83830.711,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 78927.204,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 91909.578,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 98126.39,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 96351.731,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 70115.725,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 95135.468,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 98564.594,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 129126.62,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 83423.327,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 95547.31,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 97384.18,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 105641.026,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 82356.077,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 93664.747,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 92681.464,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 114741.924,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 77230.693,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 84265.067,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 110160.428,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 108726.25,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 76846.556,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 111794.501,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 95370.371,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 101577.91,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 72774.376,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 96231.704,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 95606.436,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 95194.086,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 76014.761,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 92792.793,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 93636.364,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 105030.592,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 73414.113,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 110239.03,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 105568.842,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 91447.174,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 81123.655,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 98470.364,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 95576.864,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 95992.545,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 78506.098,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 90989.4,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 100000,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 108956.277,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 79251.091,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 113311.332,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 103586.993,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 115298.508,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 77971.234,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 104745.763,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 89669.182,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 120327.103,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 108307.046,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 145685.998,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 176168.758,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 168668.123,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 116034.548,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 124046.568,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 134581.882,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 151917.405,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 117089.807,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 144460.029,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 152818.992,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 129018.79,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 107928.747,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 147776.184,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 160519.481,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 162888.772,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 136725.664,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 159607.439,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 177484.205,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 182086.035,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 133650.52,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 159772.493,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 170529.802,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 178303.52,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 139503.387,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 162460.568,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 166129.033,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 168117.52,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 138378.863,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 159278.351,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 174674.958,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 177688.327,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 134699.216,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 165594.856,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 172336.866,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 177790.564,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 138565.023,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 164975.975,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 171666.667,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 176068.377,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 139819.005,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 161273.487,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 152442.033,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 171286.032,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 137516.689,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 159689.923,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 167479.675,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 180913.349,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 90748.899,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 108994.709,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 106003.431,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 99197.432,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 85264.901,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 109847.139,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 106039.808,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 125304.137,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 79721.363,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 106809.541,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 103068.713,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 91069.85,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 63842.976,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 76942.232,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 97139.265,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 108497.192,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 75237.4,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 102317.881,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 90140.024,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 94466.524,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 81017.305,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 98001.903,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 98943.324,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 120000,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 79906.905,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 97078.229,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 113436.124,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 120000,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 80615.706,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 101278.27,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 101079.49,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 110475.51,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 79454.873,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 100717.08,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 109574.469,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 117401.216,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 92101.342,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 112938.597,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 124747.679,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 97692.065,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 84196.186,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 105496.757,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 104005.386,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 121749.409,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 81681.206,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 109925.294,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 113021.215,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 107703.033,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 87189.617,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 107031.521,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 100980.393,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 102726.064,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 82290.28,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 96022.375,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 104781.282,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 101178.782,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 93636.364,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 117579.909,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 97970.831,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 125763.126,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 101278.27,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 86168.433,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 148557.693,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 149636.804,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 101778.657,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 122570.409,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 136183.341,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 139945.653,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 112732.58,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 124747.679,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 152517.276,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 154500,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 116824.197,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 149275.363,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 184698.148,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 174379.233,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 138069.706,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 162204.725,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 181125.44,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 168209.037,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 131489.362,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 109341.826,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 138008.04,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 153961.137,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 137823.372,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 162460.568,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 163319.239,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 178406.467,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 143454.039,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 158787.256,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 166397.416,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 179755.672,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 138378.863,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 163232.964,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 168117.52,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 177178.9,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 138255.034,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 160602.911,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 171001.661,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 187841.946,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 81251.644,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 98064.107,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 96472.058,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 98785.167,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 83785.25,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 121797.399,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 140263.278,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 101980.199,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 80405.933,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 89151.76,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 104145.602,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 98659.004,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 63501.85,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 63567.168,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 64388.415,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 62462.099,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 63280.771,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 67408.377,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 60093.349,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 59802.594,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 61762.943,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 68590.456,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 60198.715,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 60922.713,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 61639.737,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 70985.528,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 64321.399,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 62348.669,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 61091.341,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 65272.497,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 60886.7,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 62148.029,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 61911.441,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 68091.671,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 66351.729,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 60528.894,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 59161.402,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 64241.165,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 64644.352,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 67467.249,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 60731.133,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 60351.563,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 63462.724,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 61163.896,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 58126.411,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 64984.228,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 62424.243,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 66351.729,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 58578.2,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 62537.948,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 61961.099,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 62336.091,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 68560.018,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 69142.986,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 61079.265,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 64956.906,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 73624.018,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 64970.564,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 72416.218,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 63606.423,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 65716.717,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 62971.266,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 67100.978,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 59560.525,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 58567.097,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 60838.748,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 61676.647,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 65927.033,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 61504.778,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 64495.93,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 68743.048,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 64094.587,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 61911.441,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 61713.601,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 63190.185,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 59583.495,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 59093.517,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 60316.221,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 66280.567,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 71148.976,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 67013.663,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 63908.997,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 70387.244,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 75292.398,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 68076.669,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 70483.577,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 62626.673,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 68468.868,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 62048.193,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 75127.645,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 65410.669,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 74118.494,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 59652.51,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 66025.642,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 66067.993,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 65646.909,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 66451.613,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 75494.748,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 66681.054,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 64041.451,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 64281.257,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 70709.383,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 72928.96,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 71198.157,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 62996.942,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 67203.132,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 70163.488,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 64134.496,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 62550.608,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 63895.782,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 85123.967,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 69438.203,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 64348.189,
+  "billSize": 309000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 67203.132,
+  "billSize": 309000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 67570.523,
+  "billSize": 309000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 66437.326,
+  "billSize": 309000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 79342.663,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 101828.967,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 119052.206,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 103223.652,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 64395.124,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 85018.573,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 87337.479,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 89956.332,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 66344.606,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 75679.648,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 83626.523,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 89812.528,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 63915.607,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 75476.307,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 79180.013,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 96532.334,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 65320.791,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 68865.612,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 69696.628,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 93452.291,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 64529.603,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 81134.305,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 71288.5,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 79937.913,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 63869.368,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 75375.046,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 84242.094,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 90522.924,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 62671.129,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 78257.567,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 77902.433,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 91541.994,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 64847.849,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 78040.157,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 81995.489,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 90153.173,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 64034.816,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 77686.99,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 89474.447,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 104022.892,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 63744.199,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 77667.463,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 86700.337,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 99006.729,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 62380.136,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 77912.255,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 84925.107,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 92156.278,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 63560.63,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 80816.007,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 112670.921,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 136033.459,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 82808.523,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 104639.35,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 117289.809,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 138440.861,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 106313.436,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 141321.748,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 151842.752,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 158828.065,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 106625.259,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 142824.128,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 149818.182,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 157331.976,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 105119.919,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 143154.969,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 148987.464,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 164361.703,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 108231.174,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 139661.017,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 146272.19,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 156376.519,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 105281.091,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 145240.894,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 147917.664,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 157935.089,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 109516.215,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 140199.638,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 153464.118,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 163017.674,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 112486.349,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 140678.352,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 152104.357,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 160103.627,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 108250.132,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 135348.227,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 150952.614,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 162460.568,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 111051.213,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 144156.753,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 141775.637,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 165506.16,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 112384.07,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 146514.936,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 151917.405,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 155589.124,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 110278.373,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 143221.321,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 152743.451,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 162631.579,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 80657.792,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 102606.675,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 106662.065,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 128723.183,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 94756.21,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 109788.595,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 101411.225,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 99229.288,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 84971.814,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 107273.043,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 112261.581,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 114190.688,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 67203.132,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 97491.718,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 116034.548,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 125686.395,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 87709.339,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 108898.679,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 104515.475,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 112547.806,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 84773.663,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 114064.231,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 107853.404,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 124396.136,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 85100.524,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 102300.944,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 102419.623,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 107273.043,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 84299.55,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 101912.929,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 107872.23,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 116252.822,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 83265.967,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 95621.229,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 101112.566,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 104923.6,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 85809.498,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 97108.737,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 105245.232,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 106754.189,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 73808.671,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 97154.536,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 112384.07,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 121653.544,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 85030.27,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 84093.074,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 105406.789,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 119906.869,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 78198.153,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 108421.053,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 108421.053,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 113644.723,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 98360.656,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 117423.523,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 119443.371,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 128375.572,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 81832.628,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 97722.961,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 112588.814,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 104427.172,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 89036.162,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 102216.342,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 106662.065,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 110812.265,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 82510.014,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 95858.539,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 96895.579,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 103171.954,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 80911.234,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 96052.223,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 98611.776,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 107966.458,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 82126.246,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 99086.1,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 108421.053,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 118187.034,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 79180.013,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 98864.182,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 100373.559,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 109071.656,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 84518.6,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 101728.396,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 119351.101,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 109555.044,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 89669.182,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 93452.291,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 91285.082,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 111051.213,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 90232.151,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 103586.993,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 111653.117,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 115277.001,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 82598.236,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 101929.738,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 112814.896,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 108421.053,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 83457.124,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 99806.202,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 105245.232,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 115341.546,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 97815.765,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 115925.718,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 125177.234,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 126122.449,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 106276.871,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 119098.093,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 105677.155,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 115449.281,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 80721.004,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 90350.878,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 102897.103,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 102081.269,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 76089.634,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 102013.866,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 112856.1,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 102572.615,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 78575.97,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 94887.149,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 109225.875,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 115687.009,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 81908.549,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 96351.731,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 95828.811,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 99870.718,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 78615.953,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 95962.733,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 98517.456,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 111171.074,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 82521.031,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 96487.12,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 100227.052,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 100996.895,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 85536.333,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 92709.271,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 108288.068,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 106735.752,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 84001.632,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 94698.131,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 117781.59,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 102165.648,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 79659.707,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 94872.583,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 105840.042,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 110653.537,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 81832.628,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 100947.403,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 101311.476,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 101394.586,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 78208.049,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 97784.811,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 102521.567,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 119397.218,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 89943.24,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 106258.597,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 109691.161,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 120163.329,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 78366.726,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 93212.67,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 106276.871,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 106735.752,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 81102.363,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 95843.673,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 109477.414,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 103500.252,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 75596.331,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 105586.879,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 99452.849,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 112384.07,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 84611.172,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 107087.16,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 107759.373,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 111693.476,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 79465.09,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 101594.608,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 102470.569,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 121010.378,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 85833.334,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 95547.31,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 107966.458,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 102436.599,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 76627.403,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 102708.992,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 102300.944,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 112424.96,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 84680.735,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 94683.622,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 101079.49,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 99452.849,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 81551.861,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 80953.629,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 99245.223,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 97185.092,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 80364.11,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 94020.995,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 101929.738,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 95076.924,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 94192.959,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 142003.677,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 148521.99,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 154422.789,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 85714.286,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 106094.421,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 111814.728,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 115708.669,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 94365.552,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 112098.676,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 103120.308,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 113477.782,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 83042.193,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 99006.729,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 103569.633,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 104268.602,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 68099.174,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 66904.84,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 66138.699,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 66530.305,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 67637.081,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 72036.368,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 70347.183,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 72509.68,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 66991.87,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 65396.826,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 71544.339,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 67897.166,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 64328.095,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 66387.368,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 71239.194,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 65793.677,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 64241.165,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 61103.422,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 66854.176,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 64827.442,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 67423.086,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 69610.273,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 64664.644,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 74981.801,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 63112.746,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 69344.704,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 66437.326,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 64997.897,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 64861.461,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 68166.777,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 65080.034,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 69980.75,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 64207.793,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 74927.256,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 74529.668,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 68811.937,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 69305.821,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 73144.751,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 68927.058,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 63061.225,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 70020.395,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 78967.545,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 71230.983,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 73309.609,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 69846.293,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 77961.398,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 69571.091,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 66731.455,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 58695.033,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 67312.929,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 69181.686,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 68287.293,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 65591.17,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 68009.244,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 70355.192,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 71885.542,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 63763.93,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 70275.188,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 65751.676,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 70443.406,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 66230.844,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 65856.778,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 71536.058,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 67459.885,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 61139.692,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 66803.589,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 66970.092,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 67934.484,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 69197.179,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 69321.369,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 70211.316,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 65941.102,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 64793.458,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 68537.208,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 71927.375,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 69980.75,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 67203.132,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 69712.352,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 71189.956,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 64657.879,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 66380.237,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 68834.93,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 68973.215,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 68144.228,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 64241.165,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 66566.136,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 63423.646,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 71337.874,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 63397.621,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 69019.433,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 69665.202,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 71173.558,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 66825.26,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 68911.686,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 67283.615,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 67159.314,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 63626.069,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 65877.839,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 65807.689,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 69759.567,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 67837.542,
+  "billSize": 618000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 63796.842,
+  "billSize": 618000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 63790.256,
+  "billSize": 618000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 68758.345,
+  "billSize": 618000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 77964.677,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 87058.603,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 93184.56,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "none",
+  "throughput": 94016.228,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 67169.046,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 85833.334,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 93409.916,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "none",
+  "throughput": 101300.405,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 66772.312,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 89211.818,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 113602.942,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "none",
+  "throughput": 131582.683,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 101722.814,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 142813.126,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 152017.055,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "none",
+  "throughput": 166906.734,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 108649.79,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 149492.018,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 142615.385,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "none",
+  "throughput": 163376.807,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 101112.566,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 146607.623,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 133208.795,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "none",
+  "throughput": 115730.338,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 94197.745,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 89669.182,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 113672.594,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "none",
+  "throughput": 110409.719,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 74951.488,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 82686.648,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 84727.174,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "none",
+  "throughput": 91864.038,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 65978.648,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 75531.655,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 87148.633,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "none",
+  "throughput": 91709.538,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 65093.744,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 81358.61,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 85061.48,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "none",
+  "throughput": 88487.973,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 65577.25,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 87494.101,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 89444.231,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "none",
+  "throughput": 95913.089,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 66489.744,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 79639.176,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 93778.453,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "none",
+  "throughput": 93344.075,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 65619.028,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 80294.5,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 107853.404,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "none",
+  "throughput": 116765.336,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 68560.018,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 80183.376,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 90421.382,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "none",
+  "throughput": 104380.138,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 62809.134,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 79632.334,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 89547.914,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "none",
+  "throughput": 90262.902,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 65726.036,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 78793.031,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 88017.471,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "none",
+  "throughput": 90935.845,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 66796.369,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 78452.946,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 89314.963,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "none",
+  "throughput": 96161.826,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 68580.307,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 87140.44,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 93485.277,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "none",
+  "throughput": 96653.113,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 61035.028,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 76428.395,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 87510.621,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "none",
+  "throughput": 94843.463,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 64929.608,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 83176.313,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 90104.977,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "none",
+  "throughput": 98240.78,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 63781.478,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 84820.204,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 82635.051,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "none",
+  "throughput": 91456.196,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 66566.136,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 82945.598,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 87428.087,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "none",
+  "throughput": 89366.625,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 65763.338,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 80378.046,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 83664.26,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "none",
+  "throughput": 85761.866,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 63983.987,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 78927.204,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 92092.192,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "none",
+  "throughput": 103390.587,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 64469.018,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 81875.994,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 84781.416,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "none",
+  "throughput": 92229.629,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 85714.286,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 92257.166,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 88084.379,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "none",
+  "throughput": 95145.233,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 71560.908,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 106649.793,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 117923.929,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "lz4",
+  "throughput": 109225.875,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 82730.924,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 112677.769,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 108879.493,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "lz4",
+  "throughput": 113436.124,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 86465.815,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 105580.866,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 109561.518,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "lz4",
+  "throughput": 112581.978,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 77951.565,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 104769.44,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 115629.288,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "lz4",
+  "throughput": 106735.752,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 83876.222,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 109200.142,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 114078.268,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "lz4",
+  "throughput": 113575.105,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 83634.068,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 98606.532,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 101901.726,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "lz4",
+  "throughput": 114827.202,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 84827.965,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 101377.953,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 102238.889,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "lz4",
+  "throughput": 104122.206,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 82122.609,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 99506.226,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 106772.634,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "lz4",
+  "throughput": 100826.627,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 83838.293,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 98116.004,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 106784.933,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "lz4",
+  "throughput": 102977.117,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 81645.236,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 100346.396,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 107043.88,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "lz4",
+  "throughput": 105388.814,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 79529.856,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 94765.897,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 100618.691,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "lz4",
+  "throughput": 110686.568,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 78519.397,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 104040.405,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 112227.603,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "lz4",
+  "throughput": 106637.525,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 85682.596,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 110554.562,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 110252.141,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "lz4",
+  "throughput": 109678.183,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 79488.939,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 109148.711,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 103529.149,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "lz4",
+  "throughput": 104251.013,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 85186.547,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 106088.35,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 116942.097,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "lz4",
+  "throughput": 111565.773,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 87165.022,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 107678.012,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 104864.254,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "lz4",
+  "throughput": 117654.525,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 87917.299,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 105269.135,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 102284.012,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "lz4",
+  "throughput": 100607.771,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 87892.292,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 105556.821,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 102430.94,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "lz4",
+  "throughput": 107865.953,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 77282.201,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 100958.397,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 105616.954,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "lz4",
+  "throughput": 106319.533,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 79625.494,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 99144.386,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 100564.114,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "lz4",
+  "throughput": 104215.852,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 80225.011,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 99314.335,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 105376.834,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "lz4",
+  "throughput": 105568.842,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 79400.429,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 103148.993,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 97826.087,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "lz4",
+  "throughput": 116927.347,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 79865.599,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 107192.415,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 102295.3,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "lz4",
+  "throughput": 108586.155,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 82166.283,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 108662.525,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 106149.09,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "lz4",
+  "throughput": 120077.721,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 124162.872,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 102612.354,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 128607.104,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "lz4",
+  "throughput": 114331.525,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 106490.523,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 110396.571,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 114798.762,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "lz4",
+  "throughput": 108218.539,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 81710.005,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 98116.004,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 107304.087,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "snappy",
+  "throughput": 105689.204,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 79838.085,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 94428.034,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 102862.85,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "snappy",
+  "throughput": 105942.858,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 77853.364,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 100892.469,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 102126.254,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "snappy",
+  "throughput": 110501.848,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 84541.724,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 92441.165,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 98084.859,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "snappy",
+  "throughput": 104556.734,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 81847.078,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 94505.047,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 103842.277,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "snappy",
+  "throughput": 108509.892,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 80798.397,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 100183.725,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 98334.571,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "snappy",
+  "throughput": 104192.425,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 82013.625,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 93381.687,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 98606.532,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "snappy",
+  "throughput": 106908.085,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 80868.883,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 87585.035,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 99112.585,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "snappy",
+  "throughput": 105316.974,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 76891.175,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 104686.618,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 102954.243,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "snappy",
+  "throughput": 100433.37,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 77012.545,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 101935.342,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 95350.751,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "snappy",
+  "throughput": 114571.747,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 76027.229,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 90802.234,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 124983.147,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "snappy",
+  "throughput": 107229.613,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 77853.364,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 91231.179,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 99827.698,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "snappy",
+  "throughput": 102748.837,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 80468.75,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 97640.616,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 90113.736,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "snappy",
+  "throughput": 95439.103,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 79237.542,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 90740.016,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 89409.723,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "snappy",
+  "throughput": 100575.025,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 78063.158,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 79680.248,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 92450.384,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "snappy",
+  "throughput": 104391.892,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 77605.693,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 97037.58,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 109626.301,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "snappy",
+  "throughput": 109007.526,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 77560.241,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 86417.452,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 113561.191,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "snappy",
+  "throughput": 119320.376,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 80336.251,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 94485.782,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 104769.44,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "snappy",
+  "throughput": 101411.225,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 76681.281,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 87017.742,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 99698.86,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "snappy",
+  "throughput": 96532.334,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 73159.183,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 94073.473,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 107068.608,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "snappy",
+  "throughput": 98491.288,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 79482.123,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 93315.885,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 102748.837,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "snappy",
+  "throughput": 96532.334,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 80749.129,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 93598.547,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 104923.6,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "snappy",
+  "throughput": 99763.238,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 82093.518,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 94824.059,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 104333.146,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "snappy",
+  "throughput": 109795.097,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 88327.776,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 98837.83,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 103702.876,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "snappy",
+  "throughput": 104521.367,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 79021.397,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 96532.334,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 93513.569,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "snappy",
+  "throughput": 112254.784,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 81623.669,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 101935.342,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 109432.181,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "snappy",
+  "throughput": 106015.554,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 66356.479,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 65410.669,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 69552.822,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 5,
+  "compressionType": "gzip",
+  "throughput": 72472.833,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 60513.089,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 63654.467,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 64495.93,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 25,
+  "compressionType": "gzip",
+  "throughput": 71994.409,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 62198.068,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 65614.383,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 68136.715,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 45,
+  "compressionType": "gzip",
+  "throughput": 62478.938,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 64500.418,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 66738.661,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 66006.836,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 65,
+  "compressionType": "gzip",
+  "throughput": 68707.383,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 62694.441,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 69678.293,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 68707.383,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 85,
+  "compressionType": "gzip",
+  "throughput": 69741.198,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 67423.086,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 70062.732,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 69194.596,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 105,
+  "compressionType": "gzip",
+  "throughput": 67423.086,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 65442.994,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 65212.804,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 70323.168,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 125,
+  "compressionType": "gzip",
+  "throughput": 66566.136,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 66285.306,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 69479.839,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 71632.795,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 145,
+  "compressionType": "gzip",
+  "throughput": 66204.828,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 64993.34,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 65917.657,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 66437.326,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 165,
+  "compressionType": "gzip",
+  "throughput": 64675.923,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 67976.828,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 69978.109,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 70397.935,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 185,
+  "compressionType": "gzip",
+  "throughput": 71827.058,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 72005.593,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 73970.636,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 71899.481,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 205,
+  "compressionType": "gzip",
+  "throughput": 66839.715,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 67261.646,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 69951.706,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 67902.139,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 225,
+  "compressionType": "gzip",
+  "throughput": 68136.715,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 66035.048,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 71544.339,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 70494.297,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 245,
+  "compressionType": "gzip",
+  "throughput": 65969.258,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 63575.887,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 67227.501,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 68962.952,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 265,
+  "compressionType": "gzip",
+  "throughput": 71285.759,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 66762.694,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 66025.642,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 67276.291,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 285,
+  "compressionType": "gzip",
+  "throughput": 70142.252,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 64576.803,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 68952.693,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 67600.088,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 305,
+  "compressionType": "gzip",
+  "throughput": 65470.726,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 65945.793,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 67310.486,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 65295.485,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 325,
+  "compressionType": "gzip",
+  "throughput": 68600.607,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 68086.67,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 70553.315,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 65194.459,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 345,
+  "compressionType": "gzip",
+  "throughput": 65016.132,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 66499.283,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 73251.68,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 68016.73,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 365,
+  "compressionType": "gzip",
+  "throughput": 62181.38,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 61911.441,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 63988.404,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 65466.102,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 385,
+  "compressionType": "gzip",
+  "throughput": 63436.666,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 62911.436,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 69060.568,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 70163.488,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 405,
+  "compressionType": "gzip",
+  "throughput": 60914.707,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 65632.966,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 71039.927,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 68661.581,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 425,
+  "compressionType": "gzip",
+  "throughput": 66810.811,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 61969.383,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 70736.361,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 61882.511,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 445,
+  "compressionType": "gzip",
+  "throughput": 69683.531,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 65646.909,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 69978.109,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 70590.923,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 465,
+  "compressionType": "gzip",
+  "throughput": 64116.752,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 65838.069,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 70371.214,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 71214.566,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 485,
+  "compressionType": "gzip",
+  "throughput": 63194.492,
+  "billSize": 927000
+},
+{
+  "batchSize": "16384",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 64630.831,
+  "billSize": 927000
+},
+{
+  "batchSize": "32768",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 67105.835,
+  "billSize": 927000
+},
+{
+  "batchSize": "49152",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 67521.306,
+  "billSize": 927000
+},
+{
+  "batchSize": "65536",
+  "lingerMs": 505,
+  "compressionType": "gzip",
+  "throughput": 71489.165,
+  "billSize": 927000
+}]

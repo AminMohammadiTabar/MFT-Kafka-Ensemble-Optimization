@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+Thumbs.db
+.pytest_cache/
+# Model artifacts and project datasets are intentionally included in this archive.
